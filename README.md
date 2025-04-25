@@ -1,4 +1,4 @@
-# [tgbot-prototype](https://bishalqx980.github.io/tgbot-prototype/)
+# [telegram-bot](https://bishalqx980.github.io/telegram-bot/)
 > Originally: Melina Jan 2 2023; Rebuilt: April 14 2025;
 
 - Successor [tgbot](https://github.com/bishalqx980/tgbot)
